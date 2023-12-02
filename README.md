@@ -1,2 +1,2 @@
 # QaSchTest
-Test public repo
+Currency public repo
