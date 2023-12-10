@@ -2,9 +2,9 @@ package Lesson_4_1;
 
 public class EquilateralTriangleExample {
     public static void main(String[] args) {
-        int height = 5; // Висота рівностороннього трикутника
+        int height = 5;
 
-        // Виведення рівностороннього трикутника з використанням двох циклів for
+        // Виведення трикутника з використанням двох циклів for
         System.out.println("Рівносторонній трикутник за допомогою двох циклів for:");
         for (int i = 0; i < height; i++) {
             // Пробіли для вирівнювання
